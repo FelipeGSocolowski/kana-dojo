@@ -1,0 +1,33 @@
+{
+  "title": "Conquistas",
+  "description": "Acompanhe seu progresso e ganhe conquistas",
+  "unlocked": "Desbloqueadas",
+  "locked": "Bloqueadas",
+  "progress": "Progresso: {{current}}/{{total}}",
+  "earnedOn": "Earned on {{date}}",
+  "categories": {
+    "all": "Todas",
+    "kana": "Kana",
+    "kanji": "Kanji",
+    "vocabulary": "Vocabulário",
+    "general": "Geral",
+    "special": "Especial"
+  },
+  "rarity": {
+    "common": "Comum",
+    "rare": "Rara",
+    "epic": "Épica",
+    "legendary": "Lendária"
+  },
+  "notifications": {
+    "achievementUnlocked": "Conquista desbloqueada!",
+    "congratulations": "Parabéns!",
+    "youEarned": "Você ganhou"
+  },
+  "stats": {
+    "totalAchievements": "Todas as Conquistas",
+    "unlockedAchievements": "Desbloqueadas",
+    "completionRate": "Taxa de Compleção",
+    "recentAchievements": "Conquistas recentes"
+  }
+}

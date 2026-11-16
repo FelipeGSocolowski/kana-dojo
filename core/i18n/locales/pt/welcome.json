@@ -1,0 +1,67 @@
+{
+  "title": "Bem vindo ao KanaDojo!",
+  "subtitle": "Vamos personalizar seu aprendizado",
+  "steps": {
+    "welcome": {
+      "demoCta": "Experimente"
+    },
+    "behavior": {
+      "title": "Configure o comportamento",
+      "subtitle": "Configure o idioma e preferências sonoras",
+      "displayLanguage": {
+        "title": "Idioma",
+        "description": "No menu de seleção de caracteres, para leitura, exibir:",
+        "romaji": "Romaji, Traduções 🇺🇸",
+        "kana": "Kana, Kanji 🇯🇵"
+      },
+      "soundEffects": {
+        "title": "Efeitos sonoros",
+        "description": "Toque efeitos sonoros de feedback e da interface de usuário:",
+        "on": "Ligado",
+        "off": "Desligado"
+      }
+    },
+    "themes": {
+      "title": "Escolha seu Tema",
+      "subtitle": "Escolha um tema que combine com seu estilo",
+      "randomTheme": "Tema aleatório",
+      "moreInfo": "Mais temas disponíveis em",
+      "preferences": "Preferências"
+    },
+    "fonts": {
+      "title": "Escolha sua Fonte",
+      "subtitle": "Escolha a fonte perfeita para os caracteres",
+      "randomFont": "Fonte aleatória",
+      "default": "(padrão)",
+      "moreInfo": "Mais fontes, disponíveis em",
+      "preferences": "Preferências"
+    },
+    "complete": {
+      "title": "Tudo pronto!",
+      "subtitle": "Seu KanaDojo agora é personalizado",
+      "canChange": "Você pode alterar as configurações em Preferências.",
+      "happyLearning": "Bom aprendizado!"
+    }
+  },
+  "features": {
+    "behavior": {
+      "title": "Configure o comportamento",
+      "description": "Configure o idioma e preferências sonoras"
+    },
+    "theme": {
+      "title": "Escolha um Tema",
+      "description": "Escolha um tema que combine com seu estilo"
+    },
+    "font": {
+      "title": "Selecione sua Fonte",
+      "description": "Escolha a fonte perfeita para os caracteres"
+    }
+  },
+  "navigation": {
+    "previous": "Anterior",
+    "back": "Voltar",
+    "next": "Próximo",
+    "getStarted": "Dê início",
+    "finishSetup": "Terminar o setup"
+  }
+}

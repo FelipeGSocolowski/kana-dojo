@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "KanaDojo: Kana",
+    "description": "O dojo kana é aonde você irá aprender e praticar os dois silabários principais do japonês - Hiragana e Katakana."
+  },
+  "title": "Treinamento Kana",
+  "description": "Domine Hiragana e Katakana",
+  "selection": {
+    "title": "Selecionar grupos kana",
+    "hiragana": "Hiragana",
+    "katakana": "Katakana",
+    "selectAll": "Selecionar tudo",
+    "deselectAll": "Desmarcar tudo",
+    "groups": {
+      "basic": "Básico",
+      "dakuon": "Dakuon",
+      "combo": "Combinações",
+      "yoon": "Yōon"
+    }
+  },
+  "game": {
+    "title": "Jogo Kana",
+    "start": "Iniciar jogo",
+    "pause": "Pausar",
+    "resume": "Retomar",
+    "finish": "Terminar",
+    "nextQuestion": "Próxima pergunta",
+    "submit": "Enviar resposta",
+    "score": "Pontuação: {{points}}",
+    "timeLeft": "Tempo restante: {{seconds}}s",
+    "streak": "Sequência: {{count}}",
+    "correct": "Correto!",
+    "incorrect": "Incorreto",
+    "tryAgain": "Tente novamente"
+  },
+  "modes": {
+    "pick": "Modo de seleção",
+    "reversePick": "Seleção reversa",
+    "input": "Modo de entrada",
+    "reverseInput": "Entrada reversa",
+    "description": {
+      "pick": "Veja o kana, escolha a leitura",
+      "reversePick": "Veja a leitura, escolha o kana",
+      "input": "Veja o kana, digite a leitura",
+      "reverseInput": "Veja a leitura, digite o kana"
+    }
+  },
+  "results": {
+    "title": "Resultados",
+    "congratulations": "Parabéns!",
+    "correct": "Correto: {{count}}",
+    "incorrect": "Incorreto: {{count}}",
+    "accuracy": "Precisão: {{percentage}}%",
+    "timeSpent": "Tempo gasto: {{time}}",
+    "playAgain": "Jogue novamente",
+    "backToMenu": "Voltar ao menu"
+  },
+  "dictionary": {
+    "title": "Dicionário kana",
+    "search": "Pesquisar kana...",
+    "character": "Caractere",
+    "romaji": "Romaji",
+    "type": "Tipo"
+  }
+}
